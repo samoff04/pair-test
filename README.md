@@ -1,13 +1,3 @@
-﻿# Pair Test
+﻿## StarkX
 
-A small repository for practising the Git pull request workflow:
-branching, committing, and merging changes.
-
-## What I practised
-- Creating a branch
-- Writing clear commit messages
-- Opening and merging a pull request
-
-## Tip
-
-Delete a branch only after its pull request is merged.
+In Building...
